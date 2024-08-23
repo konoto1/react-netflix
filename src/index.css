@@ -10,10 +10,3 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.sectionOne {
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
-  background-image: url("../public/netflixBackground.jpg");
-}
-
