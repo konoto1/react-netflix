@@ -1,16 +1,15 @@
 .sectionOne {
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    height: 700px;
     background-image: url("../public/netflixBackground.jpg");
-    border-bottom: 3px solid red;
 }
 
 header {
     background: linear-gradient(rgb(0, 0, 0), transparent);
     display: flex;
     justify-content: space-between;
-    padding: 2rem;
+    padding: 2rem !important;
 }
 
 .netflixLogo {
