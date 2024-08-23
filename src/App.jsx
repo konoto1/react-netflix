@@ -1,4 +1,5 @@
 
+import { SectionFive } from './components/SectionFive.jsx';
 import { SectionFour } from './components/SectionFour.jsx';
 import { SectionOne } from './components/SectionOne.jsx';
 import { SectionThree } from './components/SectionThree.jsx';
@@ -12,6 +13,7 @@ function App() {
       <SectionTwo/>
       <SectionThree/>
       <SectionFour/>
+      <SectionFive/>
     </>
   )
 }
